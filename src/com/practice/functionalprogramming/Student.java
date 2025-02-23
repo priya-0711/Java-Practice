@@ -1,3 +1,5 @@
+package com.practice.functionalprogramming;
+
 import java.util.List;
 
 public class Student {

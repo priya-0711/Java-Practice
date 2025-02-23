@@ -1,9 +1,8 @@
-import java.util.ArrayList;
+package com.practice.functionalprogramming;
+
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 

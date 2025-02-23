@@ -1,3 +1,5 @@
+package com.practice.functionalprogramming;
+
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -26,5 +28,11 @@ public class FP1 {
         // Exercise -5
         //print all even nos in the list
         li.stream().filter(x->x%2==0).forEach(System.out::println);
+
+        StringBuffer s3 = new StringBuffer("Value1");
+        String s2 = "Value2";
+        for (int i = 0; i < 100000; ++i) {
+           String s4= s3 +s2;
+        }
     }
 }

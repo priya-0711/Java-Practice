@@ -1,7 +1,8 @@
+package com.practice.functionalprogramming;
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Java8QuesByJavaTechie {
     public static void main(String[] args) {

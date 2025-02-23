@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package com.practice.functionalprogramming;
+
 import java.util.*;
 import java.util.stream.Collectors;
 

@@ -1,5 +1,4 @@
-import java.util.HashMap;
-import java.util.Map;
+package com.practice.functionalprogramming;
 
 public class SumOfTwoElementsInArray {
     public static void main(String[] args) {
