@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.coding;
 
 import java.util.*;
 import java.util.stream.Collectors;

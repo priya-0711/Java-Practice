@@ -5,7 +5,7 @@ public class ExceptionHAndlingExample {
         //CTE: as Exception class is of checked Exception type
         // and needs to be handled either using try-catch
         // or using throws keyword as method signature
-            throw new Exception("");
+ //           throw new Exception("");
 
     }
 }
