@@ -1,0 +1,11 @@
+build:
+  version: 5.3
+
+loans:
+  message: "welcome to dev eazy loans.com"
+  contacts:
+    name: "shreyas talpade"
+    email: "shreyas@eazyloans.com"
+  onCallSupport:
+    - 4263827693
+    - 5463858256

@@ -1,0 +1,14 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to Accounts MS local."
+  contactDetails:
+    name:  "Shreya Talpade"
+    email: "shreya@eazybank.com"
+  onCallSupport:
+     -9589244933
+     -7898942478
+
+
+

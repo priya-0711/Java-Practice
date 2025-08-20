@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to Accounts MS QA."
+  contactDetails:
+    name:  "Shreya Talwar"
+    email: "shreya.t@eazybank.com"
+  onCallSupport:
+    -9589244933
+    -7898942478

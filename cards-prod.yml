@@ -1,0 +1,12 @@
+build:
+  version: 4.1
+
+
+cards:
+  message: "welcome to prod eazy cards.com"
+  contacts:
+    name: "priya mirchandani"
+    email: "priya@eazycards.com"
+  onCallSupport:
+    - 465874658
+    - 645969438

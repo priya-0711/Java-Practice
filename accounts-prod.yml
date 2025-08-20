@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to Accounts MS Production."
+  contactDetails:
+    name:  "Riya V"
+    email: "riya.v@eazybank.com"
+  onCallSupport:
+    -9589244933
+    -7898942478
