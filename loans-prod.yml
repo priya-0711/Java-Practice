@@ -2,7 +2,7 @@ build:
   version: 5.1
 
 loans:
-  message: "welcome to prod eazy loans.com"
+  message: "welcome to production eazy loans.com"
   contacts:
     name: "shreyas talpade"
     email: "shreyas@eazyloans.com"
