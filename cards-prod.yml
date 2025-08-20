@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "welcome to prod eazy cards.com"
+  message: "welcome to production eazy cards.com"
   contacts:
     name: "priya mirchandani"
     email: "priya@eazycards.com"
