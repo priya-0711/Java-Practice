@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Accounts MS Production."
   contactDetails:
     name:  "Riya V"
-    email: "b9c944063c2c53b6eee2fc8338c20adbf6dac883221c6eae529401c25cde1c94d6fd36203cdfa05a4642ea6650c03603"
+    email: {cipher} "b9c944063c2c53b6eee2fc8338c20adbf6dac883221c6eae529401c25cde1c94d6fd36203cdfa05a4642ea6650c03603"
   onCallSupport:
     -9589244933
     -7898942478
