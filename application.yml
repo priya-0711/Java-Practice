@@ -1,6 +1,11 @@
 #this is for microservices config server centralized or externalized configuration
 #insurance.provider.url = http://localhost:8080/insurance/all-plans
 
-spring.application.name=user-service-config-via-config-server
-eureka.client.register-with-eureka=true
-eureka.client.fetch-registry=true
+spring:
+  application:
+    name: user-service-config-via-config-server
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
